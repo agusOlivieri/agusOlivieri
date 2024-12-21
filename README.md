@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋🏼 Hi there, I'm Agustin!</h1>
+  <h1>👋🏼 Hi there! I'm Agustin</h1>
   <p>📚 Software Engineering student at Universidad Tecnológica Nacional.<br>🖊 Currently getting deeper into backend applications with Java.<br></p>
   
   ![](https://github-readme-stats.vercel.app/api?username=agusOlivieri&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
