@@ -1,4 +1,4 @@
-# 👋🏼 Hi, I'm Agustin!
+# 👋🏼 Hi there, I'm Agustin!
 📚 Software Engineering student at Universidad Tecnológica Nacional.<br>🖊 Currently getting deeper into backend applications with Java.<br>
 
 ## 🌐 Socials:
